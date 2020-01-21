@@ -1,5 +1,6 @@
 /**
  * @format
+ * soisangwan
  */
 
 import {AppRegistry} from 'react-native';
